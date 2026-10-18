@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.2",
+  "Version": "2.0.3",
   "Url": "https://raw.githubusercontent.com/Omniboxer/mb/main/installer.exe",
-  "Changelog": "Version 2.0.2:\n- UI-Skalierung für schmale Nebenfenster korrigiert (keine riesigen Icons mehr)\n- Neues 2/3 + 1/3 Main-Fokus Layout für 2 Accounts\n- Layout-Liste zeigt nun alle Presets übersichtlich an\n- Automatische GitHub Update-Funktion integriert\n- Makro-Mehrfachauswahl & UI-Scale Makrovorlage hinzugefügt\n- Performance- und Profilsystem Optimierungen"
+  "Changelog": "Version 2.0.3:\n- UI-Skalierung für schmale Nebenfenster korrigiert (keine riesigen Icons mehr)\n- Neues 2/3 + 1/3 Main-Fokus Layout für 2 Accounts\n- Layout-Liste zeigt nun alle Presets übersichtlich an\n- Automatische GitHub Update-Funktion integriert\n- Makro-Mehrfachauswahl & UI-Scale Makrovorlage hinzugefügt\n- Performance- und Profilsystem Optimierungen"
 }
