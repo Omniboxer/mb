@@ -1,5 +1,5 @@
-﻿{
-  "Version": "2.0.8",
+{
+  "Version": "2.0.10",
   "Url": "https://raw.githubusercontent.com/Omniboxer/mb/main/installer.exe",
-  "Changelog": "Version 2.0.8:\n- Neuer Changelog-Reiter mit vollständiger Versionshistorie\n- 3. Farbschema 'Forever' (WoW-Tiefblau, Gold, Silber, Bronze)\n- Theme-Auswahl als Dropdown in der Kopfleiste (Dunkel / Hell / Forever)\n- Tab-Rahmen und Trennlinien sauber abgeschlossen\n- Installer zeigt dynamisch die korrekte Versionsnummer (2.0.8)"
+  "Changelog": "Version 2.0.10:\n- Performance & Stutter-Fix: Destruktives EmptyWorkingSet beim Start & Fokuswechsel entfernt\n- CPU-Priorität: Hintergrund-Clients laufen flüssig auf BelowNormal (nie wieder Freeze durch Idle-Priority)\n- CPU-Affinity All-Cores: Volle Multithread-Leistung für modernen 64-bit WoW-Engine\n- VSync & Frame-Latency bereinigt: Ruckelfreies Windowed-Rendering mit 30/15 FPS ohne DWM-Stalls\n- Sanfte RAM-Verwaltung: Kein aggressiver Quota-Reset mehr"
 }
