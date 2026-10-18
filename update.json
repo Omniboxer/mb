@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.10",
+  "Version": "2.0.12",
   "Url": "https://raw.githubusercontent.com/Omniboxer/mb/main/installer.exe",
-  "Changelog": "Version 2.0.10:\n- Performance & Stutter-Fix: Destruktives EmptyWorkingSet beim Start & Fokuswechsel entfernt\n- CPU-Priorität: Hintergrund-Clients laufen flüssig auf BelowNormal (nie wieder Freeze durch Idle-Priority)\n- CPU-Affinity All-Cores: Volle Multithread-Leistung für modernen 64-bit WoW-Engine\n- VSync & Frame-Latency bereinigt: Ruckelfreies Windowed-Rendering mit 30/15 FPS ohne DWM-Stalls\n- Sanfte RAM-Verwaltung: Kein aggressiver Quota-Reset mehr"
+  "Changelog": "Version 2.0.11:\n- Freies Multi-Monitor Layout (3+ Monitore): Fenster frei per Drag & Drop über alle Monitore verschiebbar\n- Stufenlose Größenänderung (Resize): Fenstergröße direkt in der Vorschau anpassen (⇲)\n- Smart Monitor-Snapping: Magnetisches Einrasten an Monitor-Kanten für pixelgenaue Ausrichtung\n- 1-Klick-Automatik: '1 Client pro Monitor' verteilt alle Accounts vollautomatisch im Vollbild\n- Eigenes Layout dauerhaft speichern & direkt auf laufende Spiele anwenden"
 }
