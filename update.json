@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.5",
+  "Version": "2.0.6",
   "Url": "https://raw.githubusercontent.com/Omniboxer/mb/main/installer.exe",
-  "Changelog": "Version 2.0.5:\n- UI-Skalierung für schmale Nebenfenster korrigiert (Standard: 0.32 bei Start)\n- Versionsanzeige im Fenstertitel und Header auf 'OmniBoxer 2.0.x' angepasst\n- Neues 2/3 + 1/3 Main-Fokus Layout für 2 Accounts\n- Layout-Liste zeigt nun alle Presets unabhängig von Client-Anzahl an\n- Automatische GitHub Update-Funktion integriert\n- Makro-Mehrfachauswahl & UI-Scale Makrovorlage hinzugefügt\n- Performance- und Profilsystem Optimierungen"
+  "Changelog": "Version 2.0.6:\n- Doppelter Update-Dialog beim Start behoben\n- HTTP Cache-Busting für Sofort-Erkennung neuer Versionen auf GitHub\n- Robuster Versionsvergleich (auch mit v-Präfixen)\n- UI-Skalierung für schmale Nebenfenster korrigiert (Standard: 0.32)\n- Versionsanzeige im Header 'OmniBoxer 2.0.x'\n- Neues 2/3 + 1/3 Main-Fokus Layout für 2 Accounts"
 }
